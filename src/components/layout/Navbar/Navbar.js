@@ -15,7 +15,8 @@ export default function Navbar() {
                 <ul className={styles.list}>
                     <li className={styles.item}><Link to="/">HOME</Link></li>
                     <li className={styles.item}><Link to="/company">SOBRE</Link></li>
-                    <li className={styles.item}><Link to="/budget">ORÇAMENTOS</Link></li>
+                    <li className={styles.item}><Link to="/budgets">ORÇAMENTOS</Link></li>
+                    <li className={styles.item}><Link to="/newBudget">NOVO ORÇAMENTO</Link></li>
                     <li className={styles.item}><Link to="/contact">CONTATO</Link></li>
                 </ul>
             </Container>

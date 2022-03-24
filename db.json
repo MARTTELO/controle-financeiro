@@ -1,0 +1,50 @@
+{
+    "projects": [],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Mercado"
+        },
+        {
+            "id": 2,
+            "name": "Farmácia"
+        },
+        {
+            "id": 3,
+            "name": "Doces"
+        },
+        {
+            "id": 4,
+            "name": "Lanches"
+        },
+        {
+            "id": 5,
+            "name": "Presentes"
+        },
+        {
+            "id": 6,
+            "name": "Brinquedps"
+        },
+        {
+            "id": 7,
+            "name": "Pessoal Mamãe"
+        },
+        {
+            "id": 8,
+            "name": "Pessoal Papai"
+        },
+        {
+            "id": 9,
+            "name": "Pessoal Marcela"
+        },
+        {
+            "id": 10,
+            "name": "Pessoal Enzo"
+        },
+        {
+            "id": 11,
+            "name": "Games"
+        }
+        
+    ]
+}

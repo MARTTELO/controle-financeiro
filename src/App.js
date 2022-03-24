@@ -6,7 +6,8 @@ import Company from './components/pages/Company/Company';
 import Contact from './components/pages/Contact/Contact';
 import Container from './components/layout/Container/Container';
 import Budget from './components/pages/Budgets/Budget';
-import NewBudget from './components/pages/NewBudget';
+import NewBudget from './components/pages/NewBudget/NewBudget';
+
 
 
 function App() {
